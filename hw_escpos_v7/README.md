@@ -1,4 +1,4 @@
-The escpos directory contains the MIT licensed pyxmlescpos lib taken from
+POS Box module to support Openerp 7
 
-https://github.com/fvdsn/py-xml-escpos
+
 
